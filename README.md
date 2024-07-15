@@ -4,7 +4,7 @@ This project focuses on utilizing Digital Signal Processing (DSP) techniques to 
 - data set: **data.csv**
 
 **Table 1: Statistical Summary in General (Overall Data)**
-Line fit    | R<sup>2</sup> | 
+            |               | 
 ------------|---------------|
 count          | 1347     
 mean           | 28.55     
