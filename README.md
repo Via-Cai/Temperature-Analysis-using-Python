@@ -4,7 +4,8 @@ This project focuses on utilizing Digital Signal Processing (DSP) techniques to 
 - data set: **data.csv**
 
 
-Abstract— This project delves into the investigation of
+*### Abstract*
+*This project delves into the investigation of
 temperature patterns within Pasay City, spanning from October
 17 to October 31, 2023. An assortment of theories and
 methodologies has been employed to facilitate a comprehensive
@@ -19,7 +20,7 @@ temperature-time histograms. These visualizations are pivotal in
 providing insights into the variations and trends within the
 temperature data, thus contributing to a more comprehensive
 understanding of the environmental conditions during this
-specific time frame.
+specific time frame.*
 
 
 
